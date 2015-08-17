@@ -20,6 +20,9 @@
                     <navigationItem key="navigationItem" title="Bar Button Animation" id="ove-7V-fNl">
                         <barButtonItem key="rightBarButtonItem" image="star" id="gkH-TC-AUC"/>
                     </navigationItem>
+                    <connections>
+                        <outlet property="rightBarButton" destination="gkH-TC-AUC" id="a03-m2-o8a"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
