@@ -9,14 +9,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-
-    @IBAction func tappedStar(sender: AnyObject) {
-        println("tapped star")
-    }
-    
-    override func viewDidLoad() {
-
-    }
     
 }
 

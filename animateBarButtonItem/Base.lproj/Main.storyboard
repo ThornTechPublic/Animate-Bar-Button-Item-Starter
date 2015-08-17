@@ -18,11 +18,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="Bar Button Animation" id="ove-7V-fNl">
-                        <barButtonItem key="rightBarButtonItem" image="star" id="gkH-TC-AUC">
-                            <connections>
-                                <action selector="tappedStar:" destination="BYZ-38-t0r" id="YsX-lp-BYF"/>
-                            </connections>
-                        </barButtonItem>
+                        <barButtonItem key="rightBarButtonItem" image="star" id="gkH-TC-AUC"/>
                     </navigationItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
